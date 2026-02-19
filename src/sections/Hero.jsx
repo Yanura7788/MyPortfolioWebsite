@@ -69,46 +69,55 @@ export const Hero = () => {
             <div className="animate-fade-in">
               <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass text-sm text-primary">
                 <span className="w-2 h-2 bg-primary rounded-full animate-pulse" />
-                Software Engineer • React Specialist
+                FullStack Web Developer • React Specialist
               </span>
             </div>
 
             {/* Headline */}
             <div className="space-y-4">
               <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight animate-fade-in animation-delay-100">
-                Crafting <span className="text-primary glow-text">digital</span>
-                <br />
-                experiences with
-                <br />
+                Code <span className="text-primary glow-text"> <br />
+                Create
+                <br /></span>
+               
                 <span className="font-serif italic font-normal text-white">
-                  precision.
+                 Connect
                 </span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                Hi, I'm Pedro Machado — a software engineer specializing in
-                React, Next.js, and TypeScript. I build scalable, performant web
-                applications that users love.
-              </p>
+                Hi, I’m Xavierno Yanura Alexander, a Fullstack Web Developer passionate about crafting scalable and high-performing web applications. I specialize in HTML, CSS, JavaScript, PHP, Laravel, ReactJS, Vue, and CMS solutions. With solid experience in SQL and MySQL databases, I turn ideas into interactive websites and web apps. Beyond web development, I also create engaging games using Unity and Construct 2, delivering experiences users truly enjoy.</p>
             </div>
 
             {/* CTAs */}
             <div className="flex flex-wrap gap-4 animate-fade-in animation-delay-300">
-              <Button size="lg">
-                Contact Me <ArrowRight className="w-5 h-5" />
-              </Button>
-              <AnimatedBorderButton>
-                <Download className="w-5 h-5" />
-                Download CV
-              </AnimatedBorderButton>
-            </div>
+  {/* Contact Me button */}
+  <Button
+    size="lg"
+    as="a"
+    href="mailto:xaviernoyanura@gmail.com" // ganti dengan email kamu atau link halaman kontak
+  >
+    Contact Me <ArrowRight className="w-5 h-5" />
+  </Button>
+
+  {/* Download CV button */}
+  <AnimatedBorderButton
+    as="a"
+    href="https://drive.google.com/file/d/1J40f8Sl3rc3jImo4P4sD0ad1xvpQmF0L/view?usp=drive_link" // ganti dengan path CV kamu
+    download
+  >
+    <Download className="w-5 h-5" />
+    Download CV
+  </AnimatedBorderButton>
+</div>
+
 
             {/* Social Links */}
             <div className="flex items-center gap-4 animate-fade-in animation-delay-400">
               <span className="text-sm text-muted-foreground">Follow me: </span>
               {[
-                { icon: Github, href: "#" },
-                { icon: Linkedin, href: "#" },
-                { icon: Twitter, href: "#" },
+                { icon: Github, href: "https://github.com/Yanura7788" },
+                { icon: Linkedin, href: "https://www.linkedin.com/in/xavierno-yanura-alexander-8859a4192/" },
+                { icon: Instagram, href: "https://www.instagram.com/xaviernoyanura/" },
               ].map((social, idx) => (
                 <a
                   key={idx}
@@ -148,7 +157,7 @@ export const Hero = () => {
                 </div>
                 {/* Stats Badge */}
                 <div className="absolute -top-4 -left-4 glass rounded-xl px-4 py-3 animate-float animation-delay-500">
-                  <div className="text-2xl font-bold text-primary">5+</div>
+                  <div className="text-2xl font-bold text-primary">3+</div>
                   <div className="text-xs text-muted-foreground">
                     Years Exp.
                   </div>
