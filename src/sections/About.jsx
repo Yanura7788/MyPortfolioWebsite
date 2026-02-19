@@ -9,20 +9,20 @@ const highlights = [
   },
   {
     icon: Rocket,
-    title: "Performance",
+    title: "Fast Performance",
     description:
       "Optimizing for speed and delivering lightning-fast user experiences.",
   },
   {
     icon: Users,
     title: "Collaboration",
-    description: "Working closely with teams to bring ideas to life.",
+    description: "Working together with teams to bring new ideas.",
   },
   {
     icon: Lightbulb,
-    title: "Innovation",
+    title: "Creative and Innovation",
     description:
-      "Staying ahead with the latest technologies and best practices.",
+      "Learn ahead with the latest technologies ",
   },
 ];
 
@@ -49,30 +49,27 @@ export const About = () => {
 
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
               <p>
-                I'm a passionate software engineer with over 5 years of
-                experience crafting digital products that make a difference. My
-                journey started with a curiosity for how things work on the web,
-                and it has evolved into a deep expertise in modern frontend
-                technologies.
-              </p>
-              <p>
-                I specialize in React, Next.js, and TypeScript, building
-                everything from sleek landing pages to complex enterprise
-                applications. My approach combines technical excellence with a
+                I am a passionate Programmer with excellent communication skills and a quick learner. 
+                I am deeply involved in web development, focusing on detail and results. I have experience designing, developing, and optimizing responsive web applications. 
+                I am proficient in HTML5, CSS3, JavaScript, Bootstrap, Laravel, React, Vue. I am familiar with MySQL databases and debugging and maintaining websites.
+                My approach combines technical excellence with a
                 keen eye for design and user experience.
+
+               
               </p>
               <p>
-                When I'm not coding, you'll find me exploring new technologies,
-                contributing to open-source projects, or sharing knowledge with
-                the developer community.
+                Besides being a web developer, I also like to make games using Unity and Construct 2.
+                I have a basic understanding of networking and computer systems, which supports my role as IT support
+              </p>
+              <p>
+                When I'm not coding, i like to exploring new technologies and
+                contributing to open-source projects
               </p>
             </div>
 
             <div className="glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300">
               <p className="text-lg font-medium italic text-foreground">
-                "My mission is to create digital experiences that are not just
-                functional, but truly delightful — products that users love to
-                use and developers love to maintain."
+                "My mission is to design digital solutions that go beyond mere functionality, creating experiences that are genuinely enjoyable — products that users are passionate about and developers find easy to support."
               </p>
             </div>
           </div>
