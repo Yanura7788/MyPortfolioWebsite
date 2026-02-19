@@ -85,8 +85,7 @@ export const Hero = () => {
                 Hi, I’m Xavierno Yanura Alexander, a Fullstack Web Developer passionate about crafting scalable and high-performing web applications. I specialize in HTML, CSS, JavaScript, PHP, Laravel, ReactJS, Vue, and CMS solutions. With solid experience in SQL and MySQL databases, I turn ideas into interactive websites and web apps. Beyond web development, I also create engaging games using Unity and Construct 2, delivering experiences users truly enjoy.</p>
             </div>
 
-           <div className="flex flex-wrap gap-4 animate-fade-in animation-delay-300"> <Button size="lg"> Contact Me <ArrowRight className="w-5 h-5" /> </Button> <AnimatedBorderButton> <Download className="w-5 h-5" /> Download CV </AnimatedBorderButton> </div> make contact me to link and download cv
-
+           <div className="flex flex-wrap gap-4 animate-fade-in animation-delay-300"> <Button size="lg"> Contact Me <ArrowRight className="w-5 h-5" /> </Button> <AnimatedBorderButton> <Download className="w-5 h-5" /> Download CV </AnimatedBorderButton> </div> 
 
             {/* Social Links */}
             <div className="flex items-center gap-4 animate-fade-in animation-delay-400">
