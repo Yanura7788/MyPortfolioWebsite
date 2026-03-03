@@ -1,16 +1,18 @@
-# React + Vite
+Halo, saya Xavierno Yanura Alexander.
+Saya adalah seorang pendidik dan praktisi di bidang Pengembangan Perangkat Lunak dan Gim (PPLG) dengan fokus pada pengembangan aplikasi web dan game interaktif.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Saya memiliki pengalaman dalam membangun aplikasi berbasis:
+🌐 Frontend: Vue JS (Vue 3 + Composition API)
+⚙️ Backend: Node.js & Express.js
+🗄️ Database: MySQL
+🎮 Game Development: Unity (C#)
 
-Currently, two official plugins are available:
+Sebagai seorang guru dan developer, saya tidak hanya berfokus pada pembuatan aplikasi, tetapi juga pada bagaimana teknologi dapat dipelajari dengan cara yang terstruktur, praktis, dan berbasis proyek (Project Based Learning).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Saya memiliki skill dalam :
+Pengembangan aplikasi fullstack modern
+Pembuatan modul pembelajaran berbasis proyek
+Pengembangan game edukatif
+Implementasi sistem berbasis REST API
+Integrasi frontend dan backend secara optimal
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
