@@ -10,9 +10,9 @@ Throughout the game, players will face different types of challenges such as puz
 
 With engaging gameplay, colorful environments, and interactive learning elements, Ksatria Matematika aims to make learning math fun and enjoyable. The game is designed for students and anyone who wants to improve their math skills while experiencing an exciting fantasy adventure.",
     image: "/projects/proyek1.png",
-    tags: ["React", "Typescript", "NodeJS"],
+    tags: ["Unity", "Construct2", "C#"],
     link: "#",
-    github: "#",
+    github: "https://github.com/Yanura7788/Game-Development-Android",
   },
   {
     title: "E-Commerce Platform",
