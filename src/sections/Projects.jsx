@@ -17,18 +17,13 @@ With engaging gameplay, colorful environments, and interactive learning elements
   {
     title: "E-Commerce Platform",
     description:
-      "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
+      "Hotel Arunika is a modern and elegant hospitality destination designed to provide comfort, relaxation, and unforgettable experiences for every guest. Located in a strategic and scenic area, the hotel offers a perfect blend of luxury and tranquility, making it ideal for both leisure and business travelers.
+
+The website of Hotel Arunika presents a clean and user-friendly interface, allowing visitors to easily explore room options, facilities, and services. Guests can browse through high-quality images of rooms, check availability, and make reservations seamlessly. The website also highlights key features such as a swimming pool, restaurant, spa, and meeting rooms.
+
+With responsive design and intuitive navigation, the Hotel Arunika website ensures a smooth browsing experience across all devices. It reflects the hotel’s commitment to excellent service, providing clear information, attractive visuals, and convenient booking options to enhance customer satisfaction.",
     image: "/projects/proyek2.png",
-    tags: ["Next.js", "Stripe", "PostgreSQL", "Tailwind"],
-    link: "#",
-    github: "#",
-  },
-  {
-    title: "AI Writing Assistant",
-    description:
-      "An intelligent writing tool powered by GPT-4, helping users create better content faster.",
-    image: "/projects/proyek3.png",
-    tags: ["React", "OpenAI", "Python", "FastAPI"],
+    tags: ["HTML", "CSS", "Javascript"],
     link: "#",
     github: "#",
   },
@@ -36,7 +31,7 @@ With engaging gameplay, colorful environments, and interactive learning elements
     title: "Project Management Tool",
     description:
       "A collaborative workspace for teams with real-time updates, task tracking, and integrations.",
-    image: "/projects/proyek4.png",
+    image: "/projects/project4.png",
     tags: ["Next.js", "Socket.io", "MongoDB", "Redis"],
     link: "#",
     github: "#",
