@@ -36,7 +36,7 @@ With responsive design and intuitive navigation, the Hotel Arunika website ensur
     link: "#",
     github: "#",
   },
-];
+
 {
     title: "Project Management Tool",
     description:
@@ -46,7 +46,7 @@ With responsive design and intuitive navigation, the Hotel Arunika website ensur
     link: "#",
     github: "#",
   },
-
+];
 export const Projects = () => {
   return (
     <section id="projects" className="py-32 relative overflow-hidden">
