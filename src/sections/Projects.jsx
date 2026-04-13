@@ -2,42 +2,33 @@ import { ArrowUpRight, Github } from "lucide-react";
 import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
 const projects = [
   {
-    title: "Ksatria Matematika",
+    title: "Fintech Dashboard",
     description:
-      "Ksatria Matematika is an educational adventure game that combines the excitement of a heroic journey with the challenge of solving mathematical problems. In this game, players take on the role of a brave knight who must explore various worlds, defeat enemies, and overcome obstacles by using their math skills.
-
-Throughout the game, players will face different types of challenges such as puzzles, quizzes, and problem-solving missions involving basic to intermediate mathematics, including addition, subtraction, multiplication, and logic-based questions. Each correct answer helps the knight gain power, unlock new areas, and progress further in the story.
-
-With engaging gameplay, colorful environments, and interactive learning elements, Ksatria Matematika aims to make learning math fun and enjoyable. The game is designed for students and anyone who wants to improve their math skills while experiencing an exciting fantasy adventure.",
+      "A comprehensive financial analytics platform with real-time data visualization, portfolio management, and AI-powered insights.",
     image: "/projects/proyek1.png",
-    tags: ["Unity", "Construct2", "C#"],
+    tags: ["React", "Typescript", "NodeJS"],
     link: "#",
-    github: "https://github.com/Yanura7788/Game-Development-Android",
+    github: "#",
   },
   {
     title: "E-Commerce Platform",
     description:
-      "Hotel Arunika is a modern and elegant hospitality destination designed to provide comfort, relaxation, and unforgettable experiences for every guest. Located in a strategic and scenic area, the hotel offers a perfect blend of luxury and tranquility, making it ideal for both leisure and business travelers.
-
-The website of Hotel Arunika presents a clean and user-friendly interface, allowing visitors to easily explore room options, facilities, and services. Guests can browse through high-quality images of rooms, check availability, and make reservations seamlessly. The website also highlights key features such as a swimming pool, restaurant, spa, and meeting rooms.
-
-With responsive design and intuitive navigation, the Hotel Arunika website ensures a smooth browsing experience across all devices. It reflects the hotel’s commitment to excellent service, providing clear information, attractive visuals, and convenient booking options to enhance customer satisfaction.",
-    image: "/projects/proyek2.png",
-    tags: ["HTML", "CSS", "Javascript"],
+      "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
+    image: "/projects/project2.png",
+    tags: ["Next.js", "Stripe", "PostgreSQL", "Tailwind"],
     link: "#",
     github: "#",
   },
   {
-    title: "Project Management Tool",
+    title: "AI Writing Assistant",
     description:
-      "A collaborative workspace for teams with real-time updates, task tracking, and integrations.",
-    image: "/projects/project4.png",
-    tags: ["Next.js", "Socket.io", "MongoDB", "Redis"],
+      "An intelligent writing tool powered by GPT-4, helping users create better content faster.",
+    image: "/projects/project3.png",
+    tags: ["React", "OpenAI", "Python", "FastAPI"],
     link: "#",
     github: "#",
   },
-
-{
+  {
     title: "Project Management Tool",
     description:
       "A collaborative workspace for teams with real-time updates, task tracking, and integrations.",
