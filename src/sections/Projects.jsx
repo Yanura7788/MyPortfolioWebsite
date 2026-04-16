@@ -4,9 +4,7 @@ const projects = [
   {
     title: "Ksatria Matematika",
     description:
-      "Ksatria Matematika is an educational adventure game that combines the excitement of a heroic journey with the challenge of solving mathematical problems. In this game, players take on the role of a brave knight who must explore various worlds, defeat enemies, and overcome obstacles by using their math skills.
-      Throughout the game, players will face different types of challenges such as puzzles, quizzes, and problem-solving missions involving basic to intermediate mathematics, including addition, subtraction, multiplication, and logic-based questions. Each correct answer helps the knight gain power, unlock new areas, and progress further in the story.
-      With engaging gameplay, colorful environments, and interactive learning elements, Ksatria Matematika aims to make learning math fun and enjoyable. The game is designed for students and anyone who wants to improve their math skills while experiencing an exciting fantasy adventure.",
+      "Ksatria Matematika is an educational adventure game that combines the excitement of a heroic journey with the challenge of solving mathematical problems. In this game, players take on the role of a brave knight who must explore various worlds, defeat enemies, and overcome obstacles by using their math skills.",
     image: "/projects/proyek1.png",
     tags: ["Javascript", "Construct2", "Design"],
     link: "#",
