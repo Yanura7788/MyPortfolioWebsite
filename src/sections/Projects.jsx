@@ -11,20 +11,11 @@ const projects = [
     github: "#",
   },
   {
-    title: "E-Commerce Platform",
+    title: "Business Website",
     description:
-      "A full-featured e-commerce solution with inventory management, payment processing, and analytics dashboard.",
+      "The website of Hotel Arunika presents a clean and user-friendly interface, allowing visitors to easily explore room options, facilities, and services. Guests can browse through high-quality images of rooms, check availability, and make reservations seamlessly. The website also highlights key features such as a swimming pool, restaurant, spa, and meeting rooms.",
     image: "/projects/project2.png",
-    tags: ["Next.js", "Stripe", "PostgreSQL", "Tailwind"],
-    link: "#",
-    github: "#",
-  },
-  {
-    title: "AI Writing Assistant",
-    description:
-      "An intelligent writing tool powered by GPT-4, helping users create better content faster.",
-    image: "/projects/project3.png",
-    tags: ["React", "OpenAI", "Python", "FastAPI"],
+    tags: ["HTML", "CSS", "Javascript", "Php"],
     link: "#",
     github: "#",
   },
