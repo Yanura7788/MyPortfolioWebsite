@@ -14,7 +14,7 @@ const projects = [
     title: "Business Website",
     description:
       "The website of Hotel Arunika presents a clean and user-friendly interface, allowing visitors to easily explore room options, facilities, and services. Guests can browse through high-quality images of rooms, check availability, and make reservations seamlessly. The website also highlights key features such as a swimming pool, restaurant, spa, and meeting rooms.",
-    image: "/projects/project2.png",
+    image: "/projects/proyek2.png",
     tags: ["HTML", "CSS", "Javascript", "Php"],
     link: "#",
     github: "#",
